@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="info_submission">
+        <div class="search_bar">
+            <label for="search_bar">Search Here!</label>
+            <input type="text" id="search_bar" name="search_bar">
+            <button onclick="searchFunc()">Search</button>
+        </div>
+        
+        <div class="option_buttons">
+            <div class="ind_button">
+                <input type="checkbox" id="google_box" name="google_box">
+                <label for="google_box">Google</label>
+            </div>
+            <div class="ind_button">
+                <input type="checkbox" id="bing_box" name="bing_box">
+                <label for="bing_box">Bing</label>
+            </div>
+            <div class="ind_button">
+                <input type="checkbox" id="excite_box" name="excite_box">
+                <label for="excite_box">Excite</label>
+            </div>
+            <div class="ind_button">
+                <input type="checkbox" id="lycos_box" name="lycos_box">
+                <label for="lycos_box">Lycos</label>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <main id="iframe_grid">
+    </main>
+    
+</body>
+<script src="index.js"></script> 
+</html>
