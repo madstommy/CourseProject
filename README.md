@@ -1,5 +1,10 @@
 # CourseProject
 
-10/24 Project Proposal Uploaded: "Project Proposal.pdf"
+PRESENTATION: https://www.youtube.com/watch?v=sQSwLfegflk
 
-11/15 Project Progress Report Uploaded: "Project Progress Report.pdf"
+Documentation: CS410 Final Project Documentation.pdf
+
+Project Proposal: "Project Proposal.pdf"
+
+Project Progress Report: "Project Progress Report.pdf"
+
